@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Minecraft_Astra.aternos.me:62537",
+    "ip": "Minecraft_Astra.aternos.me",
     "port": 62537,
     "version": "",
     "try-creative": false
